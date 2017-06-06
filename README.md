@@ -1,4 +1,8 @@
-# Project Folder
+# Project Discription
+Read the subscription data of a particular magzines of all countries from 1960 to 2014. Use a GUI interface allowing user to select the country of data they want to display, observe and compare subscription numbers of different countries.
+
+## demo screenshots
+<img width="400" alt="screen shot 2017-06-06 at 10 13 43 am" src="https://user-images.githubusercontent.com/19808690/26842308-333ef884-4aa1-11e7-9f1e-73f39c640313.png">
 
 ## src/
 - CSVReader.java - Read data from the "resources/cellular.csv" file, and get name of country, number of years, year labels etc and return values.
