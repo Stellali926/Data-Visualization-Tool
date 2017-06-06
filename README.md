@@ -34,3 +34,6 @@ Read the subscription data of a particular magzines of all countries from 1960 t
 
 ### README.txt
 description of submitted files
+
+## License
+Copyright 2017 Stella Li
