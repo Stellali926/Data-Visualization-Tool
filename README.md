@@ -1,10 +1,12 @@
 # Project Discription
 Read the subscription data of a particular magzines of all countries from 1960 to 2014. Use a GUI interface allowing user to select the country of data they want to display, observe and compare subscription numbers of different countries.
 
-## demo screenshots
-<img width="400" alt="screen shot 2017-06-06 at 10 13 43 am" src="https://user-images.githubusercontent.com/19808690/26842308-333ef884-4aa1-11e7-9f1e-73f39c640313.png">
+## Demo Screenshots
+<img width="300" alt="screen shot 2017-06-06 at 10 13 43 am" src="https://user-images.githubusercontent.com/19808690/26842308-333ef884-4aa1-11e7-9f1e-73f39c640313.png">
+<img width="600" alt="screen shot 2017-06-06 at 10 14 17 am" src="https://user-images.githubusercontent.com/19808690/26842564-1dcd531e-4aa2-11e7-8b2e-ad3e8831138a.png">
 
-## src/
+## File Description
+### src/
 - CSVReader.java - Read data from the "resources/cellular.csv" file, and get name of country, number of years, year labels etc and return values.
 - SubscriptionYear.java - One object of class stores single year and subscriptions of a country.
 - Country.java - One object of class stores representations of a country, and get name of country and calculate subscriptions in a period for a country.
@@ -22,7 +24,7 @@ Read the subscription data of a particular magzines of all countries from 1960 t
 - TestSelectedCountryandGraphView.java - Test the GraphView class.
 
 
-## resources/
+### resources/
 - cellular.csv - A CSV (Comma Separated Value) file.
        _First row contains the year of cellular data for each country.
        _First column contains the name of each country.
@@ -30,5 +32,5 @@ Read the subscription data of a particular magzines of all countries from 1960 t
 - cellular_short_oneDecade.csv - A file containing cellular data of three countries for one decade.
 - resources/RUN1(a).jpg, RUN1(b).jpg, RUN2.jpg - pictures showing first Frame for selecting countries and second Frame for showing
 
-## README.txt
+### README.txt
 description of submitted files
