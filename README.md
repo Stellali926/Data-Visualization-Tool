@@ -32,8 +32,5 @@ Read the subscription data of a particular magzines of all countries from 1960 t
 - cellular_short_oneDecade.csv - A file containing cellular data of three countries for one decade.
 - resources/RUN1(a).jpg, RUN1(b).jpg, RUN2.jpg - pictures showing first Frame for selecting countries and second Frame for showing
 
-### README.txt
-description of submitted files
-
 ## License
 Copyright 2017 Stella Li
